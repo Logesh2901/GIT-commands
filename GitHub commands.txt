@@ -1,0 +1,12 @@
+GitHub commands :
+
+i.          git init (git initialize)
+ii.         git status (what file untracked or tracked files)
+iii.        git add (for ex. git add program.cs) and you selected all files command is (git add .)
+iv.         And we check files are selected or not use git status
+v.          git config --global user.name "Logeshwaran"
+vi          git config --global user.email "logesh.a2901@gmail.com"
+vii.        git commit -m "First project"
+viii.       git push origin main  (Replace 'main' with your branch name)
+
+ 
